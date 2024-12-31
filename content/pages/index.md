@@ -9,9 +9,14 @@ sections:
       type: TitleBlock
     subtitle: WHATSASPP - NEGOCIO - GOOGLE
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Minegocio.chat se especializa en darte un agente inteligente que responda
+      y atienda a tus clientes 24/7 en donde tus clientes te vean. Ya sea en
+      google maps, en tu aviso o publicidad digital. Y si tienes en mente una
+      campaña de marqueting en mente, te guiamos para que encuentres el
+      influencer mas cercano que represente tu marca, negocio o servicio No
+      pierdas mas clientes por no estar disponible, habilita la reserva de tus
+      citas de forma automatizada para que puedas atender a tus clientes en el
+      tiempo que dispongas sin mayores complicaciones. 
     actions:
       - label: Get started
         altText: ''
