@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/minegocio.png
+      url: /images/Arc 2024-12-31 14.30.20.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
